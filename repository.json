@@ -5,7 +5,6 @@
   "manifestVersion": 1,
   "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/master/icon.png",
   "pluginLists": [
-    "https://raw.githubusercontent.com/jujutstukaisen9/skystream/main/plugins.json"
-  ],
-  "repos": []
+    "https://raw.githubusercontent.com/jujutstukaisen9/skystream-phisher-lite/main/plugins.json"
+  ]
 }
