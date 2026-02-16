@@ -1,0 +1,11 @@
+{
+  "name": "Phisher Lite Extensions",
+  "id": "com.phisher98.lite",
+  "description": "Lightweight versions of popular CloudStream extensions converted for SkyStream",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/master/icon.png",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR_USERNAME/skystream-phisher-lite/main/plugins.json"
+  ],
+  "repos": []
+}

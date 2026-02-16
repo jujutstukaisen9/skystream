@@ -1,0 +1,44 @@
+[
+  {
+    "id": "com.phisher98.lite.moviebox",
+    "name": "MovieBox",
+    "internalName": "MovieBox",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/skystream-phisher-lite/main/MovieBox/plugin.js",
+    "version": 1,
+    "status": 1,
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/master/MovieBoxProvider/icon.png",
+    "authors": ["Phisher98"],
+    "description": "Watch movies and TV shows from MovieBox API with Hindi/multi-language support",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi",
+    "fileSize": 12500
+  },
+  {
+    "id": "com.phisher98.lite.multimovies",
+    "name": "MultiMovies",
+    "internalName": "MultiMovies",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/skystream-phisher-lite/main/MultiMovies/plugin.js",
+    "version": 1,
+    "status": 1,
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/master/MultiMoviesProvider/icon.png",
+    "authors": ["Phisher98"],
+    "description": "Multi-quality movies and series provider",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi",
+    "fileSize": 8500
+  },
+  {
+    "id": "com.phisher98.lite.showflix",
+    "name": "ShowFlix",
+    "internalName": "ShowFlix",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/skystream-phisher-lite/main/ShowFlix/plugin.js",
+    "version": 1,
+    "status": 1,
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/master/ShowFlixProvider/icon.png",
+    "authors": ["Phisher98"],
+    "description": "ShowFlix provider for movies and series",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "hi",
+    "fileSize": 9200
+  }
+]
